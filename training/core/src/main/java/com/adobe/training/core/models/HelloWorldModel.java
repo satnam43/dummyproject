@@ -42,6 +42,7 @@ public class HelloWorldModel {
         message += "\tResource type is: " + resourceType + "\n";
     }
 
+    //satnam is building coore
     public String getMessage() {
         return message;
     }
